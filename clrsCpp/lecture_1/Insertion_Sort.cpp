@@ -1,4 +1,3 @@
-#pragma once
 #include <iostream>
 
 int* Insertion_Sort(int* array, int length)
